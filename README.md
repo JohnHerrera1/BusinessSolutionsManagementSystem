@@ -44,3 +44,8 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/JohnHerrera1/BusinessSolutionsManagementSystem.git
 cd BusinessSolutionsManagementSystem
+
+Set up the environment:
+- Python: Install dependencies from requirements.txt.
+- PHP: Place the backend-php folder in your server root (e.g., XAMPP htdocs).
+- MySQL: Import the schema.sql file to create the database.
