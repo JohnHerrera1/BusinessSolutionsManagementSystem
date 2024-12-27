@@ -1,0 +1,15 @@
+# Virtual environment
+BusinessSolutionsManagementSystem/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
